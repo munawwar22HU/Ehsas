@@ -1,0 +1,60 @@
+﻿ShopID,Name,Address,City,Province,Area,Cell,Landline,Longitude,Latitude,StoreType
+1,Shop n save,Block 3 Clifton,Karachi,Sindh,Clifton,N/A,N/A,67.022246,24.81409,General Store;Pharmacy;Meat;Fruits;Vegetables;Milk
+2,Noor medico,Bihar Muslim Society BMCHS Sharafabad,Karachi,Sindh,Bahadurabad,N/A,N/A,67.066595,24.886789,General Store;Pharmacy
+3,Nice,Khalid Commercial Area Phase 7 Ext ,Karachi,Sindh,Defence,N/A,N/A,67.070486,24.813781,General Store
+4,Sindbad,"B-10 University Rd, Gulshan 13-B Block 13 B Gulshan-e-Iqbal",Karachi,Sindh,Defence,N/A,N/A,67.080434,24.818492,General Store;Pharmacy
+5,Mula Uncle ki dukaan,"Johar Rd, Block B Adamjee Nagar Society",Karachi,Sindh,North Nazimabad Town,N/A,N/A,67.080434,24.949812,General Store;Pharmacy;Meat;Fruits;Vegetables;Milk
+6,Shalimar., Phase V Sea View Apartments Defence V Defence Housing Authority,Karachi,Sindh,Gulshan-e-Iqbal,N/A,N/A,67.096637,24.913245,General Store;Pharmacy
+7,Khan store,Phase V Badar Commercial Area Defence V Defence Housing Authority,Karachi,Sindh,Bahadurabad,N/A,N/A,67.10267,24.899618,General Store;Pharmacy;Meat;Fruits;Vegetables;Milk
+8,Farhad General Store,"15-C, 13th Lane، Khayaban-e-Bukhari, D.H.A Phase 6 Bukhari Commercial Area Phase 6 Defence Housing Authority",Karachi,Sindh,North Nazimabad Town,N/A,N/A,67.057374,24.965016,General Store;Fruits;Milk
+9,Fine store ,"Khayaban-e-Shaheen, D.H.A. Phase 8 Zone B Phase 8 Defence Housing Authority, Karachi, Sindh 75500",Karachi,Sindh,New Karachi Town,N/A,N/A,67.056041,24.972,General Store;Pharmacy;Fruits;Vegetables;Milk;
+10,tee-emm mart ,"Khayaban-e-Shaheen, D.H.A. Phase 8 Zone B Phase 8 Defence Housing Authority, Karachi, Sindh 75500, Pakistan",Karachi,Sindh,Defence,92 302 8333666,N/A,67.090016,24.779613,General Store;Pharmacy;Meat;Fruits;Vegetables;Milk
+11,Springs ,"Khayaban-e-Shaheen, D.H.A. Phase 8 Zone B Phase 8 Defence Housing Authority, Karachi, Sindh 75500, Pakistan",Karachi,Sindh,Defence,N/A,N/A,67.090016,24.779613,General Store;Pharmacy;Meat;Fruits;Vegetables;Milk
+12,Tesco ,"Allama Shabbir Ahmed Usmani Rd, Block 7 Gulshan-e-Iqbal",Karachi,Sindh,Defence,N/A,N/A,67.063903,24.809072,General Store
+13,Taimuriya,"Plot # M-1, Begum Rabia Siddiqui Road, Central Commercial Area, BMCHS Rd No. 13, BMCHS Sharafabad, Karachi, Karachi City, Sindh",Karachi,Sindh,Gulshan-e-Iqbal,N/A,N/A,67.10434,24.934527,General Store;Pharmacy;Meat;Fruits;Vegetables;Milk
+14,Spar,"Shanaz Arcade، Shaheed-e-Millat Rd, Delhi Mercantile Society",Karachi,Sindh,Bahadurabad,N/A,N/A,67.055011,24.917958,General Store
+15,shaik genral store,"Rashid Minhas Rd, Block 11 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh, Pakistan",Karachi,Sindh,Gulshan Town,N/A,N/A,67.106758,24.914119,Pharmacy
+16,Taj medical store ," Shaheed-e-Millat Rd, Bahadurabad Bahadur Yar Jang CHS",Karachi,Sindh,Gulshan Town,N/A,N/A,67.106758,24.914119,General Store
+17,Bin safeer,Essa Nagri Gulshan-e-Iqbal,Karachi,Sindh,Malir Cantt,N/A,N/A,67.2048,24.927357,General Store
+18,Afaq General Store,"l Minal Tower Plot no, SB-8, block no 3/A Gulistan-e-Johar",Karachi,Sindh,Gulshan-e-Maymar,N/A,N/A,67.134668,25.035707,General Store
+19,Mateen,"3rd Ln Sector R sub Sector R5 Gulshan-e-Maymar,Sindh، Al Hamd Town Sector R Gulshan-e-Maymar",Karachi,Sindh,Malir Cantt,N/A,N/A,67.203558,24.928172,General Store
+20,Haji Super store,"Plot No. 30-C, Rahat Commercial, Opp SKBZ college، Lane 3, Rahat Commercial Area Phase 6 Defence Housing Authority, Karachi, Karachi City, Sindh 75500, Pakistan",Karachi,Sindh,Defence,N/A,N/A,67.047223,24.800006,General Store;Pharmacy;Meat;Fruits;Vegetables;Milk
+21,Al warda store,"Block 2 Abid Town Block 2 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh, Pakistan",Karachi,Sindh,Abid Town,N/A,N/A,67.083558,24.924325,General Store;Pharmacy;Meat;Fruits;Vegetables;Milk
+22,Al-Amin general store,"Block 2 Abid Town Block 2 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh, Pakistan",Karachi,Sindh,Abid Town,N/A,N/A,67.018508,24.811768,Meat
+23,Rasheed mutton & beef shop,"Phase V Sea View Apartments Defence V Defence Housing Authority, Karachi, Karachi City, Sindh 75500",Karachi,Sindh,Defence,N/A,N/A,67.021292,24.815056,Pharmacy
+24,Haji Dawood Pharmacy,South city Hospital Karachi,Karachi,Sindh,Clifton,N/A,N/A,67.057329,24.841757,Pharmacy
+25,Sunny medico store ,"Commercial Area, Korangi Road، Commercial Area A Phase 2 Defence Housing Authority, Karachi, Karachi City, Sindh 75500, Pakistan",Karachi,Sindh,Defence,92 21 35892781,N/A,67.057398,24.841752,General Store
+26,Bilal gernal store,"HM Ground Rte, Taj Colony Sector 48 B Korangi, Karachi, Karachi City, Sindh, Pakistan",Karachi,Sindh,Orangi Town,92 316 2784555,N/A,67.139527,24.817407,General Store;Pharmacy;Meat;Fruits;Vegetables;Milk
+27,Bin ahmed ,"Karachi Administration Employees Housing Society Block 5 KAECHS, Karachi, Karachi City, Sindh, Pakistan",Karachi,Sindh,Baloch Colony,N/A,N/A,67.080985,24.862037,General Store;Pharmacy;Meat;Fruits;Vegetables;Milk;
+28,Al Jadeed,"1 University Rd, Block 5 Gulistan-e-Johar, Karachi, Karachi City, Sindh 75290, Pakistan",Karachi,Sindh,Safoora chowrangi,92 21 34774333,N/A,67.139347,24.935861,General Store;Pharmacy;Meat;Fruits;Vegetables;Milk;
+29,Muslim Supermarket,"University Rd, Block 7 Gulistan-e-Johar, Karachi, Karachi City, Sindh, Pakistan",Karachi,Sindh,Safoora chowrangi,92 21 34631326,N/A,67.152159,24.938329,General Store;Pharmacy;Meat;Fruits;Vegetables;Milk;
+30,Bin Hasim,"University Rd, Block 7 Gulistan-e-Johar, Karachi, Karachi City, Sindh, Pakistan",Karachi,Sindh,Safoora chowrangi,92 21 34622711,N/A,67.151788,24.938164,Pharmacy
+31,Rab Medical ,"5 - B/1 Sardar Ali Sabri Rd, Block 2 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh 75300, Pakistan",Karachi,Sindh,Gulshan-e-Iqbal,N/A,N/A,24.922667,67.088525,Pharmacy
+32,Samdani Pharmacy,"5 - B/1 Sardar Ali Sabri Rd, Block 2 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh 75300, Pakistan",Karachi,Sindh,Gulshan-e-Iqbal,N/A,N/A,24.922667,67.088525,Meat
+33,Sohail Meat Shop,"5 - B/1 Sardar Ali Sabri Rd, Block 2 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh 75300, Pakistan",Karachi,Sindh,Gulshan-e-Iqbal,N/A,N/A,24.922667,67.088525,Milk
+34,Imran Milk Shop,"Johar Mor Rd Service Ln, Block 18 Gulistan-e-Johar, Karachi, Karachi City, Sindh, Pakistan",Karachi,Sindh,Gulistan-e-Johar,N/A,N/A,67.120702,24.908582,General Store;Pharmacy;Meat;Fruits;Vegetables;Milk
+35,Smart choice store,"5 - B/1 Sardar Ali Sabri Rd, Block 2 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh 75300, Pakistan",Karachi,Sindh,Gulshan-e-Iqbal,N/A,N/A,24.922667,67.088525,General Store
+36,60+3,"Falcon Complex Faisal Falcon Complex, Karachi, Karachi City, Sindh, Pakistan",Karachi,Sindh,Baloch Colony,N/A,N/A,67.089484,24.863332,General Store;Pharmacy;Meat;Fruits;Vegetables
+37,The mart,"Plot no # 28-c, Lane # 1, Khayaban-e-Bukhari, D.H.A Phase 6 Bukhari Commercial Area Phase 6 Defence Housing Authority, Karachi, Karachi City, Sindh 75500, Pakistan",Karachi,Sindh,Defence,92 311 8436278,N/A,67.063318,24.794683,General Store;Pharmacy;Meat;Fruits;Vegetables;Milk
+38,Springs ,"15-C, 13th Lane، Khayaban-e-Bukhari, D.H.A Phase 6 Bukhari Commercial Area Phase 6 Defence Housing Authority, Karachi, Karachi City, Sindh 75500, Pakistan",Karachi,Sindh,Defence,+92 332 2777464,N/A,67.063784,24.792298,Pharmacy
+39,60+34,"Bagh-e-Ibrahim Bagh E Ibrahim Society Bagh e Ibrahim Society Shah Faisal Colony, Karachi, Karachi City, Sindh, Pakistan",Karachi,Sindh,Shah Faisal,N/A,N/A,67.188751,24.874757,Pharmacy
+40,Bay view Hospital,"Karachi City, DHA near beacon house school, A, 205 Saba Ave, Zone A Phase 8 Defence Housing Authority, Karachi, Karachi City, Sindh 75500, Pakistan",Karachi,Sindh,Defence,N/A,+92 21 35246237,67.065245,24.780201,General Store
+41,Mehran general store ,"Unnamed Road, Labor Square Sindh Industrial Trading Estate, Karachi, Karachi City, Sindh, Pakistan",Karachi,Sindh,SITE,N/A,N/A,66.98619,24.905944,General Store
+42,Amin Ayub General Store ,"Block B Shabbirabad, Karachi, Karachi City, Sindh, Pakistan",Karachi,Sindh,Bahadurabad,N/A,N/A,67.085123,24.875773,Fruits;General Store;Milk;Vegetables
+43,Waleed,"Plot 124 10th Commercial St, D.H.A. Phase 4 Phase 4 Defence Housing Authority, Karachi, Karachi City, Sindh 75500, Pakistan",Karachi,Sindh,Defence,N/A,+92 21 35800740,67.066,24.820775,General Store
+44,AOne,"25-C South Park Avenue, Phase 2 Commercial Area Defence Housing Authority, Karachi, Karachi City, Sindh 75500, Pakistan",Karachi,Sindh,Defence,N/A,+92 21 35383214,67.068208,24.832142,General Store
+45,Zainab Family Mart,"Memon Nagar Rufi Rose Petal Scheme 33 Gulzar E Hijri Scheme 33, Karachi, Karachi City, Sindh, Pakistan",Karachi,Sindh,Gulshan-e-Hijri,+92 21 34647648,N/A,67.112516,24.955378,General Store
+46,FnY Mart,"R-2, 9, Rufi Rose Petals Rufi Rose Petal Scheme 33 Gulzar E Hijri Scheme 33, Karachi, Karachi City, Sindh, Pakistan",Karachi,Sindh,Gulshan-e-Hijri,+92 316 8472195,N/A,67.112005,24.955357,General Store;Pharmacy;Meat;Fruits;Vegetables;Milk
+47,Bin Safeer,"Al Minal Tower Plot no, SB-8, block no 3/A Gulistan-e-Johar, Karachi, Karachi City, Sindh, Pakistan",Karachi,Sindh,Gulistan-e-Johar,+92 21 34018971 ext. 72,N/A, 67.134417,24.921252,General Store
+48,Al-Kamal Bakery,"X446+3W Gulzar E Hijri Scheme 33, Karachi, Pakistan",Karachi,Sindh,Gulshan-e-Hijri,308 2282820,N/A,67.112555,24.95537,General Store;Pharmacy;Fruits;Vegetables;Milk
+49,Bilal Arcade,N/A,Karachi,Sindh,Gulistan-e-Johar,N/A,N/A,67.127199,24.914697,Pharmacy
+50,Darul Sehat Pharmacy,"St-19, KDA Scheme، Abul Asar Hafeez Jalandhari Rd, Block 15 Gulistan-e-Johar, Karachi, Karachi City, Sindh, Pakistan",Karachi,Sindh,Gulistan-e-Johar,N/A,+92 21 111 300 999,67.127199,24.914697,General Store
+51,Delicacy Bakery,"Shop no.1, Qamar Arcade, Opposite Rimjhim Hall، Block 3 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh 75950, Pakistan",Karachi,Sindh,Gulistan-e-Johar,0315 3773969,N/A,67.094618,24.927284,General Store;Pharmacy
+52,Mahaveer General Store,"Block 2 Clifton, Karachi, Karachi City, Sindh, Pakistan",Karachi,Sindh,Clifton,N/A,N/A,67.01708,24.812955,General Store;Pharmacy;Fruits;Vegetables;Milk
+53,General stores and Pharmacies near KFC rahat,"Plot No. 30-C, Rahat Commercial, Opp SKBZ college، Lane 3, Rahat Commercial Area Phase 6 Defence Housing Authority, Karachi, Karachi City, Sindh 75500, Pakistan",Karachi,Sindh,Defence,N/A,N/A,67.068985,24.809261,General Store;Pharmacy;Fruits;Vegetables;Milk
+54,Imtiaz ,"Shaheed-e-Millat Rd, Bahadurabad Bahadur Yar Jang CHS, Karachi, Karachi City, Sindh, Pakistan",Karachi,Sindh,Bahadurabad,N/A,N/A,67.070707,24.883888,General Store;Pharmacy;Meat;Fruits;Vegetables;Milk
+55,Imtiaz ,"67/1, Korangi Road،، KPT Interchange, Qayyumabad, Karachi, Karachi City, Sindh 75500, Pakistan",karachi,Sindh,Defence,N/A,N/A,67.080933,24.832431,General Store;Pharmacy;Meat;Fruits;Vegetables;Milk
+56,Imtiaz ,"Block 4 Nazimabad, Karachi, Karachi City, Sindh 74600, Pakistan",Karachi,Sindh,Nazimabad,N/A,N/A,67.033077,24.91925,General Store;Pharmacy;Meat;Fruits;Vegetables;Milk
+57,Imtiaz ,"EOBI Building, Awami Markaz, Main Shahrah-e-Faisal Rd, Darwaish Colony, Karachi, Karachi City, Sindh 75350, Pakistan",Karachi,Sindh,Awami Markaz,N/A,N/A,67.09129,24.871036,General Store;Pharmacy;Meat;Fruits;Vegetables;Milk
+58,Imtiaz ,"CP & Bihar Society, CP & Berar Society Gulshan-e-Iqbal, Karachi, karachi, Sindh 75300, Pakistan",Karachi,Sindh,Gulshan-e-Iqbal,N/A,N/A,67.067488,24.887392,General Store;Pharmacy;Meat;Fruits;Vegetables;Milk
+59,Imtiaz ,Aghas SuperMarket,Karachi,Sindh,Clifton,N/A,N/A,67.035826,24.82906,General Store;Pharmacy;Meat;Fruits;Vegetables;Milk
