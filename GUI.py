@@ -150,7 +150,7 @@ def MapClick(i, latt, longi):
                          zoom_start=10)
     # my_map1 = folium.Map(location=[24.8607, 67.0011],
     #                  zoom_start=12)
-    gmaps = googlemaps.Client(key='AIzaSyDtXUOF8QiIB608KLzmSlPZJhHjh81Wrvw')
+    gmaps = googlemaps.Client(key='AIzaSyDtXUOF8QiIB___KLzmSlPZJhHjh81Wrvw')
     lat = gmaps.geolocate()["location"]["lat"]
     lng = gmaps.geolocate()["location"]["lng"]
     folium.Marker([round(lat, 2), round(lng, 2)],
